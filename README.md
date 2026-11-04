@@ -1,6 +1,6 @@
 # DDL Data
 
-Public data for the [Denouement Demon List](https://www.denouementdemonlist.com). The site reads these files directly and they are updated automatically whenever the list changes.
+Public repo storing info for the [Denouement Demon List](https://www.denouementdemonlist.com). The site reads these files directly and they are updated automatically whenever the list changes.
 
 | File | Contents |
 | --- | --- |
