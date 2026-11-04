@@ -707,7 +707,14 @@
     "note": null,
     "rank": 25,
     "author": "BurgerFan27",
-    "records": [],
+    "records": [
+      {
+        "user": "FerchuD17",
+        "link": "https://youtu.be/yfjXD3O7YSU",
+        "percent": 100,
+        "hz": 60
+      }
+    ],
     "creators": [
       "BurgerFan27"
     ],
