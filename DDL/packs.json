@@ -220,6 +220,17 @@
     "list_type": "DDL"
   },
   {
+    "id": "new_rgb_pack",
+    "name": "New RGB Pack",
+    "color": "#ff69e1",
+    "levels": [
+      "1774554174336",
+      "1774554174318",
+      "1774554174309"
+    ],
+    "list_type": "DDL"
+  },
+  {
     "id": "pointercrate_pack",
     "name": "Pointercrate Pack",
     "color": "#d4c217",
