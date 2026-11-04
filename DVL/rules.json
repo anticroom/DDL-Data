@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "header": "What classifies as a variant?",
+      "visible": true,
+      "rules": [
+        "A Denouement variant is defined as the first wave, or any part resembling the first wave of Denouement, that contains a click pattern where the first 9 inputs (hold and release) are different in any way and are all 1 frame on a set FPS alignment of 60 or above. It does not matter where it is located in the level, as long as it is on a required path to beat the level legitimately with all possible coins. Any extensions after the normal 9 inputs on the Denouement first wave that consist of the same gameplay may not be considered a variant. For example, Binbouement where it had made the low cps consistency longer. Any submitted level will be subject to the discretion of our staff team regarding whether any part of it resembles a Denouement first wave, even if claimed otherwise."
+      ]
+    }
+  ],
+  "type": "DVL"
+}

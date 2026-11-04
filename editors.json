@@ -1,0 +1,52 @@
+[
+  {
+    "name": "ItzThiur",
+    "link": "https://www.youtube.com/@ItzThiur",
+    "role": "owner"
+  },
+  {
+    "name": "bekon",
+    "link": "https://www.youtube.com/@zBaconGra",
+    "role": "owner"
+  },
+  {
+    "name": "GabriNick",
+    "link": null,
+    "role": "owner"
+  },
+  {
+    "name": "anticroom",
+    "link": "https://www.youtube.com/@Anticroom.1",
+    "role": "dev"
+  },
+  {
+    "name": "MONKEFUNI",
+    "link": "https://www.youtube.com/@MONKEFUNI",
+    "role": "admin"
+  },
+  {
+    "name": "MiloSTP",
+    "link": "https://www.youtube.com/@ItzLegendSTP",
+    "role": "admin"
+  },
+  {
+    "name": "Party Piper",
+    "link": null,
+    "role": "mod"
+  },
+  {
+    "name": "TeenHydra",
+    "link": "https://www.youtube.com/@TeenHydra",
+    "role": "mod"
+  },
+  {
+    "name": "bleoodziger",
+    "link": null,
+    "role": "mod"
+  },
+  {
+    "name": "WobluGD",
+    "link": "https://www.youtube.com/@WobluGD",
+    "role": "mod"
+  }
+]

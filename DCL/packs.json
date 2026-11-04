@@ -1,0 +1,66 @@
+[
+  {
+    "id": "gabrinickouement_series",
+    "name": "GabriNickouement Pack",
+    "color": "#6bdaff",
+    "levels": [
+      "36",
+      "1776289276",
+      "1781624623"
+    ],
+    "list_type": "DCL"
+  },
+  {
+    "id": "invisible_pack",
+    "name": "Invisible Pack",
+    "color": "#636363",
+    "levels": [
+      "1773863311619",
+      "1773863476983",
+      "21",
+      "14",
+      "1777733573"
+    ],
+    "list_type": "DCL"
+  },
+  {
+    "id": "repetition_pack",
+    "name": "Repetition Pack",
+    "color": "#7cfe96",
+    "levels": [
+      "1",
+      "1773863260265",
+      "2",
+      "3"
+    ],
+    "list_type": "DCL"
+  },
+  {
+    "id": "slop_pack",
+    "name": "Slop Pack",
+    "color": "#fe7c7c",
+    "levels": [
+      "1774757857",
+      "1773964027506",
+      "1774380707578",
+      "36"
+    ],
+    "list_type": "DCL"
+  },
+  {
+    "id": "timings_pack",
+    "name": "Timings Pack",
+    "color": "#fefad7",
+    "levels": [
+      "18",
+      "1774381026546",
+      "6",
+      "24",
+      "1774103260948",
+      "5",
+      "4",
+      "15"
+    ],
+    "list_type": "DCL"
+  }
+]

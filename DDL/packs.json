@@ -1,0 +1,338 @@
+[
+  {
+    "id": "apocalyptic_pack",
+    "name": "Apocalyptic pack",
+    "color": "#ff0000",
+    "levels": [
+      "126",
+      "60",
+      "125",
+      "107"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "blind_pack",
+    "name": "Blind Pack",
+    "color": "#d4c217",
+    "levels": [
+      "1774554174325",
+      "1780853307",
+      "1777251593"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "copy_paste_pack",
+    "name": "Copy + Paste Pack I",
+    "color": "#ff0000",
+    "levels": [
+      "31",
+      "30",
+      "29",
+      "32",
+      "27"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "copy_paste_pack_ii",
+    "name": "Copy + Paste Pack II",
+    "color": "#fe4848",
+    "levels": [
+      "22",
+      "20",
+      "26",
+      "21"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "copy_paste_pack_iii",
+    "name": "Copy + Paste Pack III",
+    "color": "#ff8080",
+    "levels": [
+      "16",
+      "47"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "copy_paste_pack_iv",
+    "name": "Copy + Paste Pack IV",
+    "color": "#ff7b00",
+    "levels": [
+      "6",
+      "8",
+      "5",
+      "4",
+      "44"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "crazy_pack",
+    "name": "CraZy Pack",
+    "color": "#ff0000",
+    "levels": [
+      "1773594972480",
+      "1773595006996",
+      "1773595081587"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "denouement_pack",
+    "name": "Denouement Pack",
+    "color": "#d4c217",
+    "levels": [
+      "48",
+      "79",
+      "115",
+      "1773801060013"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "denouement_pack_ii",
+    "name": "Denouement Pack II",
+    "color": "#d4c217",
+    "levels": [
+      "74",
+      "1772632964185",
+      "83",
+      "52"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "former_top_1_pack",
+    "name": "Former Top 1 Pack",
+    "color": "#d4c217",
+    "levels": [
+      "16",
+      "7",
+      "6"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "gabrinick_s_pack",
+    "name": "GabriNick's Pack",
+    "color": "#00ffff",
+    "levels": [
+      "16",
+      "31"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "kyf4ri_pack",
+    "name": "Kyf4ri Pack",
+    "color": "#ffffff",
+    "levels": [
+      "123",
+      "1773594943092",
+      "1773802803919",
+      "124"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "main_levels_pack",
+    "name": "Main Levels Pack",
+    "color": "#d4c217",
+    "levels": [
+      "22",
+      "20",
+      "30",
+      "33"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "main_levels_pack_ii",
+    "name": "Main Levels Pack II",
+    "color": "#ff69e1",
+    "levels": [
+      "136",
+      "132",
+      "134",
+      "103"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "main_levels_pack_iii",
+    "name": "Main Levels Pack III",
+    "color": "#d4c217",
+    "levels": [
+      "137",
+      "135",
+      "133",
+      "138"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "memory_pack",
+    "name": "Memory Pack",
+    "color": "#424242",
+    "levels": [
+      "18",
+      "23",
+      "35"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "memory_pack_ii",
+    "name": "Memory Pack II",
+    "color": "#2e2e2e",
+    "levels": [
+      "1774042766327",
+      "1773498450468",
+      "1773354250500",
+      "1773801060013"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "more_than_once_pack_i",
+    "name": "More than Once Pack I",
+    "color": "#0000ff",
+    "levels": [
+      "7",
+      "8",
+      "44"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "more_than_once_pack_ii",
+    "name": "More than Once Pack II",
+    "color": "#8800ff",
+    "levels": [
+      "22",
+      "34",
+      "28"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "pointercrate_pack",
+    "name": "Pointercrate Pack",
+    "color": "#d4c217",
+    "levels": [
+      "55",
+      "1774554174318",
+      "1774554174309"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "promises_a_pack",
+    "name": "Promises a pack",
+    "color": "#00ffb3",
+    "levels": [
+      "101",
+      "1782581905",
+      "1782583323"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "septalogue_pack",
+    "name": "Septalogue Pack",
+    "color": "#d4c217",
+    "levels": [
+      "1774554174311",
+      "1783887028",
+      "1774554174307"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "startpos_pack",
+    "name": "StartPos Pack",
+    "color": "#ff69e1",
+    "levels": [
+      "1774702789",
+      "1783532943",
+      "1774554174303",
+      "1781977352",
+      "1",
+      "1774554174321"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "straight_fly_pack",
+    "name": "Straight Fly Pack",
+    "color": "#d4c217",
+    "levels": [
+      "1774554174294",
+      "1783186904",
+      "1774802992"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "v1xzy_s_verifications_pack",
+    "name": "V1xZy's Verifications Pack",
+    "color": "#5600d6",
+    "levels": [
+      "25",
+      "20",
+      "35",
+      "45"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "xxl_pack",
+    "name": "XXL Pack",
+    "color": "#d4c217",
+    "levels": [
+      "1783186431",
+      "1774803257",
+      "1773354223285"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "bekon_s_pack",
+    "name": "bekon's Pack",
+    "color": "#ffe600",
+    "levels": [
+      "7",
+      "26",
+      "29",
+      "27"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "reta_pack",
+    "name": "reta Pack",
+    "color": "#61305a",
+    "levels": [
+      "87",
+      "97",
+      "93"
+    ],
+    "list_type": "DDL"
+  },
+  {
+    "id": "s88304206_pack",
+    "name": "s88304206 Pack",
+    "color": "#00ff00",
+    "levels": [
+      "1774042766327",
+      "119",
+      "71",
+      "54"
+    ],
+    "list_type": "DDL"
+  }
+]

@@ -1,0 +1,743 @@
+[
+  {
+    "id": 149667613,
+    "name": "60TH20AW",
+    "note": null,
+    "author": [
+      "1MillionSharks",
+      "Synactive",
+      "aelzfr",
+      "Snackfiend"
+    ],
+    "records": [],
+    "creators": [
+      "1MillionSharks",
+      "Synactive",
+      "aelzfr",
+      "Snackfiend"
+    ],
+    "password": "free Copyable",
+    "showcase": null,
+    "verifier": "SnackFiend002",
+    "verification": "https://www.youtube.com/watch?v=eFz1ZFOodqA&feature=youtu.be",
+    "percentToQualify": 100,
+    "_id": "4",
+    "rank": 1
+  },
+  {
+    "id": 146596693,
+    "_id": "1774554174295",
+    "name": "6020weirdment",
+    "note": null,
+    "rank": 2,
+    "author": "Synactive",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://youtu.be/2P2C6P6fYDY",
+        "user": "stasqq",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "Synactive",
+      "aelzfr",
+      "MONKEFUNI"
+    ],
+    "password": "free Copyable",
+    "verifier": "SnackFiend002",
+    "verification": "https://youtu.be/l596rQrYakk",
+    "percentToQualify": 100
+  },
+  {
+    "id": 144256135,
+    "_id": "1783532573",
+    "name": "Shitty Cold 6020ment",
+    "rank": 3,
+    "author": "Snackfiend",
+    "records": [],
+    "creators": [
+      "Snackfiend",
+      "para",
+      "Synactive",
+      "aelzfr"
+    ],
+    "password": "free Copyable",
+    "verifier": "SnackFiend002",
+    "verification": "https://www.youtube.com/watch?v=KHkK0GJnU3c",
+    "percentToQualify": 100
+  },
+  {
+    "id": 149659549,
+    "name": "Dead6020Locked",
+    "note": null,
+    "author": [
+      "Robtop",
+      "Synactive",
+      "aelzfr",
+      "Snackfiend"
+    ],
+    "records": [],
+    "creators": [
+      "Robtop",
+      "Synactive",
+      "aelzfr",
+      "Snackfiend"
+    ],
+    "password": "free Copyable",
+    "showcase": null,
+    "verifier": "SnackFiend002",
+    "verification": "https://www.youtube.com/watch?v=H5tQrO1hNm0",
+    "percentToQualify": 100,
+    "_id": "5",
+    "rank": 4
+  },
+  {
+    "id": 133028807,
+    "_id": "1774554174296",
+    "name": "6020ment",
+    "note": null,
+    "rank": 5,
+    "author": "aelzfr",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://youtu.be/tUmtkOJ1a7U?si=Jx8JJpY-EYk74oFf",
+        "user": "ywuChaos",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/nCk1BWrRFMM",
+        "user": "Aut0Plays",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/geometry-dash/clips/nnGdEVx9RgseceOMG?invite=cr-MSxCM1IsMjgxNzg3NzY0",
+        "user": "stasqq",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/pE1nLvfKhJM",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "aelzfr",
+      "Pastel"
+    ],
+    "password": "free Copyable",
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/watch?v=W0bpITDSxQA",
+    "percentToQualify": 100
+  },
+  {
+    "id": 146213591,
+    "_id": "3",
+    "name": "6020SXXKXR",
+    "rank": 6,
+    "author": "Viot",
+    "records": [],
+    "creators": [
+      "Viot",
+      "Synactive",
+      "aelzfr",
+      "Snackfiend"
+    ],
+    "password": "free Copyable",
+    "verifier": "SnackFiend002",
+    "verification": "https://youtu.be/ebTE1s0mDu4",
+    "percentToQualify": 100
+  },
+  {
+    "id": 149849356,
+    "_id": "7",
+    "name": "The6020End",
+    "note": null,
+    "rank": 7,
+    "author": "GabriNick",
+    "records": [],
+    "creators": [
+      "GabriNick",
+      "aelzfr",
+      "Snackfiend"
+    ],
+    "password": "free Copyable",
+    "verifier": "SnackFiend002",
+    "verification": "https://youtu.be/ZbE2HnyZuxE",
+    "percentToQualify": 100
+  },
+  {
+    "id": 143765373,
+    "_id": "1782583179",
+    "name": "d6020sh",
+    "rank": 8,
+    "author": "peshiko",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=pE1nLvfKhJM&t=272s",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "peshiko",
+      "robtop"
+    ],
+    "password": "free Copyable",
+    "verifier": "stasqq",
+    "verification": "https://medal.tv/games/geometry-dash/clips/mY0OA3nd0aRXCpZ2Y?invite=cr-MSxkdWQsMjgxNzg3NzY0&v=103",
+    "percentToQualify": 100
+  },
+  {
+    "id": 145205121,
+    "_id": "1785628013",
+    "name": "stereo6020madness",
+    "rank": 9,
+    "author": "Synactive",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/geometry-dash/clips/npG9ICa9E25tZzl-P?invite=cr-MSxoWHUsMjgxNzg3NzY0",
+        "user": "stasqq",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "Synactive",
+      "Robtop",
+      "aelzfr",
+      "MONKEFUNI"
+    ],
+    "password": "free Copyable",
+    "verifier": "SnackFiend002",
+    "verification": "https://www.youtube.com/watch?v=KHkK0GJnU3c&t=126s",
+    "percentToQualify": 100
+  },
+  {
+    "id": 136547313,
+    "_id": "1782583323",
+    "name": "Promisesa6020ment",
+    "rank": 10,
+    "author": "Darkprism1460",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/geometry-dash/clips/mXvjnE9072oPagfNT?invite=cr-MSx6SjMsMjgxNzg3NzY0&v=78",
+        "user": "stasqq",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=pE1nLvfKhJM&t=191s",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "Darkprism1460"
+    ],
+    "password": "free Copyable",
+    "verifier": "Aut0Plays",
+    "verification": "https://youtu.be/xIwsYwXTAzM?si=JJPM8hIXz-V9bB-4",
+    "percentToQualify": 100
+  },
+  {
+    "id": 150163131,
+    "_id": "9",
+    "name": "Auto Retray",
+    "note": null,
+    "rank": 11,
+    "author": "Snackfiend",
+    "records": [],
+    "creators": [
+      "Snackfiend",
+      "DiMaViKuLov26"
+    ],
+    "password": "free Copyable",
+    "verifier": "SnackFiend002",
+    "verification": "https://youtu.be/0Oi9oDxdJp0",
+    "percentToQualify": 100
+  },
+  {
+    "id": 136202282,
+    "_id": "1781977451",
+    "name": "the6020isoverthere",
+    "rank": 12,
+    "author": "BranSilver",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/geometry-dash/clips/mXi4It7bQDb7SBO5O?invite=cr-MSxTWHQsMjgxNzg3NzY0&v=114",
+        "user": "stasqq",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/nq2_wgEffxU",
+        "user": "aelzfr",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=pE1nLvfKhJM&t=71s",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "BranSilver",
+      "s88304206"
+    ],
+    "password": "free Copyable",
+    "verifier": "Aut0Plays",
+    "verification": "https://youtu.be/62TwZBYi7GQ",
+    "percentToQualify": 100
+  },
+  {
+    "id": 135975317,
+    "_id": "1783533570",
+    "name": "Fallen Clubment",
+    "rank": 13,
+    "author": "Tride",
+    "records": [],
+    "creators": [
+      "Tride",
+      "Snackfiend",
+      "UFWM",
+      "SynactiveGD"
+    ],
+    "password": "free Copyable",
+    "verifier": "SnackFiend002",
+    "verification": "https://youtu.be/g_GKGA-HqLE?si=hMSfEpbtdpC8gf6b",
+    "percentToQualify": 100
+  },
+  {
+    "id": 142940326,
+    "_id": "1781977883",
+    "name": "The Flawmenter",
+    "rank": 14,
+    "author": "Jpotww",
+    "records": [],
+    "creators": [
+      "Jpotww",
+      "Fin"
+    ],
+    "password": "free Copyable",
+    "verifier": "Jpotww",
+    "verification": "https://www.youtube.com/watch?v=UHw-xVE2UCo",
+    "percentToQualify": 100
+  },
+  {
+    "id": 144922152,
+    "_id": "1784172017",
+    "name": "Invisdmntr",
+    "rank": 15,
+    "author": "Amethema",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=PnSn7Uzqy-M&t=129s",
+        "user": "SnackFiend002",
+        "percent": 100
+      },
+      {
+        "hz": 600,
+        "link": "https://medal.tv/games/geometry-dash/clips/nBPJyx1X6OfKUd6I1?invite=cr-MSxSZ24sMjgxNzg3NzY0",
+        "user": "stasqq",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "Amethema",
+      "Synactive GD",
+      "EmpanadR"
+    ],
+    "password": "free Copyable",
+    "verifier": "Amethema",
+    "verification": "https://youtu.be/O0w4xL30PMU?si=BJJ8x2ERaPFVTk8h",
+    "percentToQualify": 100
+  },
+  {
+    "id": 135497807,
+    "_id": "1774551947858",
+    "name": "Denouemeter",
+    "rank": 16,
+    "author": "UF0kinWotM8",
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/vRSeZRWhPsg",
+        "user": "MiRPacK19",
+        "percent": 100
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=OhlLKylbO2E",
+        "user": "Jpotww",
+        "percent": 100
+      },
+      {
+        "hz": 300,
+        "link": "https://www.youtube.com/watch?v=bCL7FqVRrWE",
+        "user": "marvelatber",
+        "percent": 100
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=aDyfEmZSYyE",
+        "user": "Rislum",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/H5tQrO1hNm0&t=110s",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "UF0kinWotM8",
+      "Synactive GD",
+      "DarkPrism1460"
+    ],
+    "password": "free Copyable",
+    "verifier": "Bobsthirdacount",
+    "verification": "https://medal.tv/games/geometry-dash/clips/ml6vkZglN1N9SuJim?invite=cr-MSxQcVEsMTkxNTU5NjQz&v=103",
+    "percentToQualify": 100
+  },
+  {
+    "id": 134755802,
+    "_id": "1782582141",
+    "name": "Monkefuni Challenge Nerf",
+    "rank": 17,
+    "author": "Monkefun1",
+    "records": [],
+    "creators": [
+      "Monkefun1"
+    ],
+    "password": "free Copyable",
+    "verifier": "Jpotww",
+    "verification": "https://www.youtube.com/watch?v=bnLdpNoDe5Y",
+    "percentToQualify": 100
+  },
+  {
+    "id": 132001223,
+    "name": "Denouementer",
+    "author": "Synactive GD",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://youtu.be/8pHKW44nkQ8?si=Ktg3yFICrTNgLG6v",
+        "user": "njacked",
+        "percent": 100
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=y2ANJwqdiwU",
+        "user": "Jpotww",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=PyUpbkBWEGA",
+        "user": "lattyso",
+        "percent": 100
+      },
+      {
+        "hz": 240,
+        "link": "https://youtu.be/JZ76ESeMBak",
+        "user": "trappp",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "Synactive GD",
+      "UFWM8"
+    ],
+    "password": "free Copyable",
+    "verifier": "EmpanadR",
+    "verification": "https://www.youtube.com/watch?v=V1nWYlGwN-M",
+    "percentToQualify": 100,
+    "_id": "12",
+    "rank": 18
+  },
+  {
+    "id": 132995321,
+    "_id": "1781977452",
+    "name": "pastels Denouementer",
+    "rank": 19,
+    "author": "pastelliano",
+    "records": [],
+    "creators": [
+      "pastelliano"
+    ],
+    "password": "free Copyable",
+    "verifier": "pastelliano",
+    "verification": "https://youtu.be/z-DxgiuYLyY",
+    "percentToQualify": 100
+  },
+  {
+    "id": 137522137,
+    "_id": "1782582124",
+    "name": "Deadlocked Spam Swag",
+    "rank": 20,
+    "author": "Jpotww",
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=H5tQrO1hNm0&t=423s",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "Jpotww",
+      "RobTop"
+    ],
+    "password": "free Copyable",
+    "verifier": "Jpotww",
+    "verification": "https://www.youtube.com/watch?v=Lf1kWLUKp6A",
+    "percentToQualify": 100
+  },
+  {
+    "id": 133498346,
+    "_id": "1",
+    "name": "DESHITMENT",
+    "note": null,
+    "rank": 21,
+    "author": "ANTICROOM",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=H5tQrO1hNm0&t=348s",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "ANTICROOM"
+    ],
+    "password": "free Copyable",
+    "verifier": "MONKEFUNI",
+    "verification": "https://youtu.be/oLMQaK9FHxk",
+    "percentToQualify": 100
+  },
+  {
+    "id": 147682751,
+    "_id": "2",
+    "name": "100fpsment",
+    "note": null,
+    "rank": 22,
+    "author": "synactive gd",
+    "records": [
+      {
+        "hz": 100,
+        "link": "https://www.youtube.com/watch?v=k-GsRZxSWXE&t=80s",
+        "user": "SnackFiend002",
+        "percent": 100
+      },
+      {
+        "hz": 100,
+        "link": "https://medal.tv/games/geometry-dash/clips/nCouX0QMrjFzpwUZP?invite=cr-MSxJalYsMjgxNzg3NzY0",
+        "user": "stasqq",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "synactive gd",
+      "kotyarakot00",
+      "shafikdabest"
+    ],
+    "password": "free Copyable",
+    "verifier": "shafikdabest",
+    "verification": "https://youtu.be/azVQZrKHGSo",
+    "percentToQualify": 100
+  },
+  {
+    "id": 136588531,
+    "_id": "1782581905",
+    "name": "Promisedenouementer",
+    "rank": 23,
+    "author": "Adiale",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://youtu.be/TAEMu4kQfUw",
+        "user": "lrexosu",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/0FxfDXSIQwA",
+        "user": "shafikdabest",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/s8qRUG379cU?is=s7aV9XsffozASp2T",
+        "user": "Luciovrfan",
+        "percent": 100
+      },
+      {
+        "hz": 240,
+        "link": "https://youtu.be/HmYCD13oJ98?si=yXhpgUvvcpYx0LUr&t=121",
+        "user": "Rislum",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/mji5wyVvjxA",
+        "user": "jamaloe",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/CBas0n3xldk",
+        "user": "coconurt",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/geometry-dash/clips/n6HLpl8XHYk2hWP6z?invite=cr-MSxlU3EsNTY0OTM3ODM5",
+        "user": "Amethema",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=6vqW_CdJG18",
+        "user": "ijhos",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/geometry-dash/clips/nB96OutfEYSsYrV6v?invite=cr-MSx0NnIsMjgxNzg3NzY0",
+        "user": "stasqq",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=H5tQrO1hNm0&t=266s",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "Adiale",
+      "DarkPrism1460"
+    ],
+    "password": "free Copyable",
+    "verifier": "Aut0Plays",
+    "verification": "https://youtu.be/jNFOyCYjBBs",
+    "percentToQualify": 100
+  },
+  {
+    "id": 136200093,
+    "_id": "1782582092",
+    "name": "thedenouisovertherer",
+    "rank": 24,
+    "author": "BranSilver",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://youtu.be/AP5TVy2oiSA?is=L1n2w5UTW9oNW5XZ",
+        "user": "Luciovrfan",
+        "percent": 100
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=HmYCD13oJ98",
+        "user": "Rislum",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/geometry-dash/clips/n6mHY5aKO5PbBIVPS?invite=cr-MSxZSTcsNjcwNzk2NzUw",
+        "user": "Shifty",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/ihwB85pgKYk",
+        "user": "jamaloe",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/imported-clips/clips/n6HuNwqUp-zF254ik?invite=cr-MSxsOHUsNTY0OTM3ODM5",
+        "user": "Amethema",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=LHAg-p1g4G0",
+        "user": "ijhos",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://medal.tv/games/geometry-dash/clips/nBPUun8ESaAKfnVlH?invite=cr-MSxuejQsMjgxNzg3NzY0",
+        "user": "stasqq",
+        "percent": 100
+      },
+      {
+        "hz": 60,
+        "link": "https://drive.google.com/file/d/1DvcPU_ne0GoLcOh1RxJV26eW0QD5DqJX/view?usp=drive_link",
+        "user": "SnackFiend002",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "BranSilver",
+      "s88304206"
+    ],
+    "password": "free Copyable",
+    "verifier": "Aut0Plays",
+    "verification": "https://youtu.be/Ws77WKogy0A",
+    "percentToQualify": 100
+  },
+  {
+    "id": 145432980,
+    "_id": "6",
+    "name": "Temuement",
+    "note": null,
+    "rank": 25,
+    "author": "BurgerFan27",
+    "records": [],
+    "creators": [
+      "BurgerFan27"
+    ],
+    "password": "free Copyable",
+    "verifier": "BurgerFan27",
+    "verification": "https://www.youtube.com/watch?v=T3jBZXBnUw0",
+    "percentToQualify": 100
+  },
+  {
+    "id": 150120952,
+    "_id": "8",
+    "name": "promisesAvariant",
+    "note": null,
+    "rank": 26,
+    "author": "M0NKEFUN1",
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://drive.google.com/file/d/1cVQMkIKWYaZHmUrbT4HzJcsa5kacGmi1/view?usp=sharing",
+        "user": "FerchuD17",
+        "percent": 100
+      }
+    ],
+    "creators": [
+      "M0NKEFUN1",
+      "Adiale"
+    ],
+    "password": "free Copyable",
+    "verifier": "MONKEFUNI",
+    "verification": "https://youtu.be/gdAzSnHEbak",
+    "percentToQualify": 100
+  }
+]
