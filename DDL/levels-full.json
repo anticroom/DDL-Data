@@ -9664,22 +9664,28 @@
     "author": "EnergyGMD",
     "records": [
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/mqRFVN3rl4zl7arlB?invite=cr-MSxzeGwsNTg0MzAzMDg1&v=211",
         "user": "150IQPlayer",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mqRFVN3rl4zl7arlB?invite=cr-MSxzeGwsNTg0MzAzMDg1&v=211",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/y7rVTh9fGkc",
         "user": "Quacc",
-        "percent": 100
+        "link": "https://youtu.be/y7rVTh9fGkc",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 360,
-        "link": "https://youtu.be/bl97jSTlrm8",
         "user": "Elidefunnyguy",
-        "percent": 100
+        "link": "https://youtu.be/bl97jSTlrm8",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/Ln02gK8bABE",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
