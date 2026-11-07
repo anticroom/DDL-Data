@@ -7347,16 +7347,22 @@
     "author": "MaxxoRMeN",
     "records": [
       {
-        "hz": 360,
-        "link": "https://youtu.be/99_9GqmDqx0",
         "user": "MCM",
-        "percent": 100
+        "link": "https://youtu.be/99_9GqmDqx0",
+        "percent": 100,
+        "hz": 360
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/x8lRMhHgE8E?si=pnXsPnOEvTy6rzdk&t=1956",
         "user": "semeboy58",
-        "percent": 100
+        "link": "https://youtu.be/x8lRMhHgE8E?si=pnXsPnOEvTy6rzdk&t=1956",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/HGnesegnPzA",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
