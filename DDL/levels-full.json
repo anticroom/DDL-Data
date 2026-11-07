@@ -8179,34 +8179,40 @@
     "author": "ScorchVx",
     "records": [
       {
-        "hz": 75,
-        "link": "https://www.youtube.com/watch?v=nhyiPW_vFi4",
         "user": "Obey",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=nhyiPW_vFi4",
+        "percent": 100,
+        "hz": 75
       },
       {
-        "hz": 75,
-        "link": "https://youtu.be/EcwoudacIws",
         "user": "Scarlett9",
-        "percent": 100
+        "link": "https://youtu.be/EcwoudacIws",
+        "percent": 100,
+        "hz": 75
       },
       {
-        "hz": 75,
-        "link": "https://www.youtube.com/watch?v=U9csXpYXEtc",
         "user": "blizbabymmx",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=U9csXpYXEtc",
+        "percent": 100,
+        "hz": 75
       },
       {
-        "hz": 75,
-        "link": "https://www.youtube.com/watch?v=R3MIUjjbh2E&t=1104s",
         "user": "Bobsthirdacount",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=R3MIUjjbh2E&t=1104s",
+        "percent": 100,
+        "hz": 75
       },
       {
-        "hz": 75,
-        "link": "https://youtu.be/ByvJHAk6VtI?si=oO1GnDtQ2wV-M3CX&t=292",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/ByvJHAk6VtI?si=oO1GnDtQ2wV-M3CX&t=292",
+        "percent": 100,
+        "hz": 75
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/MozB0xcBTZI",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
