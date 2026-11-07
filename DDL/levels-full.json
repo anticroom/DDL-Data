@@ -8841,10 +8841,16 @@
     "author": "Synactive GD",
     "records": [
       {
-        "hz": 480,
-        "link": "https://youtu.be/6W0Yj5FOEdE",
         "user": "luvo",
-        "percent": 100
+        "link": "https://youtu.be/6W0Yj5FOEdE",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/Rtb0Jwnpsx8",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
