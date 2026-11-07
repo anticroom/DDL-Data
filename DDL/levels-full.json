@@ -8950,16 +8950,22 @@
     "author": "turkey88776/D4rkGryf",
     "records": [
       {
-        "hz": 480,
-        "link": "https://youtu.be/oLUIVwNRosY",
         "user": "luvo",
-        "percent": 100
+        "link": "https://youtu.be/oLUIVwNRosY",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 120,
-        "link": "https://medal.tv/games/geometry-dash/clips/mpqWFuHDiwudZmwkR?invite=cr-MSxKSEQsNTMwNTc3MDY0",
         "user": "turkey887766",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mpqWFuHDiwudZmwkR?invite=cr-MSxKSEQsNTMwNTc3MDY0",
+        "percent": 100,
+        "hz": 120
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/VsABdHrK3iA",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
