@@ -9527,22 +9527,28 @@
     "author": "BurgerFan27",
     "records": [
       {
-        "hz": 480,
-        "link": "https://medal.tv/games/geometry-dash/clips/mg6Pa1VmPs9v5Vk21?invite=cr-MSw1VUwsMjA1MTMxODQ5&v=97",
         "user": "kyf4ri",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mg6Pa1VmPs9v5Vk21?invite=cr-MSw1VUwsMjA1MTMxODQ5&v=97",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 240,
-        "link": "https://www.youtube.com/live/s9Tj0fZ8EyI?si=tnYcSHuarUgg2Gwf",
         "user": "shafikdabest",
-        "percent": 100
+        "link": "https://www.youtube.com/live/s9Tj0fZ8EyI?si=tnYcSHuarUgg2Gwf",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=PhK5iTVk4JM",
         "user": "redchance",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=PhK5iTVk4JM",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/d0kBZZGhQCI",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
