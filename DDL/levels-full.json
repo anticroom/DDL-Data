@@ -9378,52 +9378,58 @@
     "author": "Synactive GD",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/dbrklXlNnro",
         "user": "luvo",
-        "percent": 100
+        "link": "https://youtu.be/dbrklXlNnro",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://drive.google.com/file/d/1Bb1UjgDcSpUZYktpDyv_X0TgFjlY8FaC/view?usp=sharing",
         "user": "WobluGD",
-        "percent": 100
+        "link": "https://drive.google.com/file/d/1Bb1UjgDcSpUZYktpDyv_X0TgFjlY8FaC/view?usp=sharing",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/X6mtXtTgvDM",
         "user": "Bobsthirdacount",
-        "percent": 100
+        "link": "https://youtu.be/X6mtXtTgvDM",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/wT_UZ0u0IUA",
         "user": "s88304206",
-        "percent": 100
+        "link": "https://youtu.be/wT_UZ0u0IUA",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/W9-ODS9cSlU",
         "user": "LeifY",
-        "percent": 100
+        "link": "https://youtu.be/W9-ODS9cSlU",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://medal.tv/games/geometry-dash/clips/mjlxY1B2APh1vsosW?invite=cr-MSxHSzEsNTY0OTM3ODM5&v=90",
         "user": "Amethema",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mjlxY1B2APh1vsosW?invite=cr-MSxHSzEsNTY0OTM3ODM5&v=90",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/Rm9AsqTHGDE?si=BVP2NEBksdtnpf2Y",
         "user": "monthmai",
-        "percent": 100
+        "link": "https://youtu.be/Rm9AsqTHGDE?si=BVP2NEBksdtnpf2Y",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/ZqF65zVzM5Q",
         "user": "Inno",
-        "percent": 100
+        "link": "https://youtu.be/ZqF65zVzM5Q",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/41AAGbLz9hw",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
