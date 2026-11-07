@@ -9142,10 +9142,16 @@
     "author": "ChaSe",
     "records": [
       {
-        "hz": 240,
-        "link": "https://youtu.be/ByvJHAk6VtI?si=0Tn4NNdS1ToDRDvL&t=4",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/ByvJHAk6VtI?si=0Tn4NNdS1ToDRDvL&t=4",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/4yqorb7puqM",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
