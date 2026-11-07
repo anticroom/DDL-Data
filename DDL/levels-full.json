@@ -8978,28 +8978,34 @@
     "author": "Dejvax",
     "records": [
       {
-        "hz": 240,
-        "link": "https://youtube.com/live/txkPAulP5Ko?feature=share",
         "user": "shafikdabest",
-        "percent": 100
+        "link": "https://youtube.com/live/txkPAulP5Ko?feature=share",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/Rm9AsqTHGDE?si=BVP2NEBksdtnpf2Y",
         "user": "monthmai",
-        "percent": 100
+        "link": "https://youtu.be/Rm9AsqTHGDE?si=BVP2NEBksdtnpf2Y",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 480,
-        "link": "https://youtu.be/b19LrfQ01G0",
         "user": "luvo",
-        "percent": 100
+        "link": "https://youtu.be/b19LrfQ01G0",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/_MrJaz27eGE?si=1rIN2pp9TfxawvYB&t=241",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/_MrJaz27eGE?si=1rIN2pp9TfxawvYB&t=241",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/_5AwKHq-j_E",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
