@@ -8537,52 +8537,58 @@
     "author": "turkey887766",
     "records": [
       {
-        "hz": 480,
-        "link": "https://youtu.be/oP8u_VDwHvU",
         "user": "luvo",
-        "percent": 100
+        "link": "https://youtu.be/oP8u_VDwHvU",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 75,
-        "link": "https://www.youtube.com/watch?v=Dfmpygzjvmk",
         "user": "plobtoiltr",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=Dfmpygzjvmk",
+        "percent": 100,
+        "hz": 75
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=_SvwoJwztx0",
         "user": "EmilioMadrugaR",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=_SvwoJwztx0",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/muSEQ6A1dtKMzWOCg?invite=cr-MSxGczcsNTMwNTc3MDY0&v=87",
         "user": "turkey887766",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/muSEQ6A1dtKMzWOCg?invite=cr-MSxGczcsNTMwNTc3MDY0&v=87",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/j4G1jtMASlw?si=IZxj3gKiP65acLRb",
         "user": "Kaeme",
-        "percent": 100
+        "link": "https://youtu.be/j4G1jtMASlw?si=IZxj3gKiP65acLRb",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/2-Ap8ui24yM?si=Liz9PDRRAYeToWgj",
         "user": "rasvaninx",
-        "percent": 100
+        "link": "https://youtu.be/2-Ap8ui24yM?si=Liz9PDRRAYeToWgj",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/_MrJaz27eGE?si=jUh25x3ubNk0ZAX_&t=514",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/_MrJaz27eGE?si=jUh25x3ubNk0ZAX_&t=514",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 240,
-        "link": "https://www.youtube.com/watch?v=0esECaGMSxs",
         "user": "juice8k",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=0esECaGMSxs",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/PEV3Hg714UM",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
