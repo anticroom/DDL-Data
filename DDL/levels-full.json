@@ -8593,28 +8593,34 @@
     "author": "BjornGMD",
     "records": [
       {
-        "hz": 360,
-        "link": "https://medal.tv/games/geometry-dash/clips/muxFHeopqdl-x-HJB?invite=cr-MSxsMmksMTkxNTU5NjQz&v=100",
         "user": "Bobsthirdacount",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/muxFHeopqdl-x-HJB?invite=cr-MSxsMmksMTkxNTU5NjQz&v=100",
+        "percent": 100,
+        "hz": 360
       },
       {
-        "hz": 120,
-        "link": "https://youtu.be/7hmXuhgfJ2Y",
         "user": "HandsomemanGD",
-        "percent": 100
+        "link": "https://youtu.be/7hmXuhgfJ2Y",
+        "percent": 100,
+        "hz": 120
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/Ouz5AT6xrIE",
         "user": "TheBaconSurvivor",
-        "percent": 100
+        "link": "https://youtu.be/Ouz5AT6xrIE",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/xzXJVrrQOOs",
         "user": "jordy",
-        "percent": 100
+        "link": "https://youtu.be/xzXJVrrQOOs",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/nDmylf0lLd8",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
