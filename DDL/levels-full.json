@@ -9164,22 +9164,28 @@
     "author": "BurgerFan27",
     "records": [
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/live/P7UnH6Nbb6s?si=jPkjcbYsqz6WUr86",
         "user": "shafikdabest",
-        "percent": 100
+        "link": "https://www.youtube.com/live/P7UnH6Nbb6s?si=jPkjcbYsqz6WUr86",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/qGlgyaCLdAY?t=1189",
         "user": "FoldedZero",
-        "percent": 100
+        "link": "https://youtu.be/qGlgyaCLdAY?t=1189",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=4HsogPSVGuQ",
         "user": "BurgerFan27",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=4HsogPSVGuQ",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/2fObJLYfRoE",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
