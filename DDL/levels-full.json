@@ -8718,46 +8718,52 @@
     "author": "Dolpriin",
     "records": [
       {
-        "hz": 144,
-        "link": "https://medal.tv/games/geometry-dash/clips/muFkKSZOTOUkj3noR?invite=cr-MSxnaDgsNTcxODQwMzE0",
         "user": "Tissue",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/muFkKSZOTOUkj3noR?invite=cr-MSxnaDgsNTcxODQwMzE0",
+        "percent": 100,
+        "hz": 144
       },
       {
-        "hz": 480,
-        "link": "https://youtu.be/IcuT0f_ug_I",
         "user": "luvo",
-        "percent": 100
+        "link": "https://youtu.be/IcuT0f_ug_I",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/_MrJaz27eGE?si=miU3so5HAkn6LmCW&t=439",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/_MrJaz27eGE?si=miU3so5HAkn6LmCW&t=439",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=HVeS6eZvSbA",
         "user": "wa3step",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=HVeS6eZvSbA",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/oJtIngmfpq8",
         "user": "WaitMathRandom",
-        "percent": 100
+        "link": "https://youtu.be/oJtIngmfpq8",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/x8lRMhHgE8E?si=vi2SHRSP_kiRrK0A&t=1881",
         "user": "semeboy58",
-        "percent": 100
+        "link": "https://youtu.be/x8lRMhHgE8E?si=vi2SHRSP_kiRrK0A&t=1881",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 360,
-        "link": "https://youtu.be/UNygg2oArTg",
         "user": "Bruv961",
-        "percent": 100
+        "link": "https://youtu.be/UNygg2oArTg",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/-516A0Y9cIk",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
