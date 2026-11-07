@@ -6822,16 +6822,22 @@
     "author": "plobtoiltr",
     "records": [
       {
-        "hz": 480,
-        "link": "https://youtu.be/qohqjvgQHhs",
         "user": "luvo",
-        "percent": 100
+        "link": "https://youtu.be/qohqjvgQHhs",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/_MrJaz27eGE?si=tvqxXkSRzP-Mc6fc&t=937",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/_MrJaz27eGE?si=tvqxXkSRzP-Mc6fc&t=937",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/KmB-CX0MiWQ",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
