@@ -7612,7 +7612,14 @@
     "name": "RGBment",
     "rank": 196,
     "author": "monthmai",
-    "records": [],
+    "records": [
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/u7ICA3r7NXc",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "creators": [
       "monthmai",
       "sillow"
