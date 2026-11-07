@@ -8564,16 +8564,22 @@
     "author": "Serponge",
     "records": [
       {
-        "hz": 480,
-        "link": "https://youtu.be/jj-I6HrvR6A",
         "user": "luvo",
-        "percent": 100
+        "link": "https://youtu.be/jj-I6HrvR6A",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 144,
-        "link": "https://medal.tv/games/geometry-dash/clips/mr9RnnctX2PaqvxBZ?invite=cr-MSw3Z3osNDQ4NTIwNjc5",
         "user": "Maximax51lefortiche",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mr9RnnctX2PaqvxBZ?invite=cr-MSw3Z3osNDQ4NTIwNjc5",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/vWm_ZiiQIcc",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
