@@ -9580,10 +9580,16 @@
     "author": "Darkprism1460",
     "records": [
       {
-        "hz": 480,
-        "link": "https://medal.tv/games/geometry-dash/clips/mlRvXWkUiQWKtfGDq?invite=cr-MSw5czcsMjA1MTMxODQ5&v=80",
         "user": "Kyf4ri",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mlRvXWkUiQWKtfGDq?invite=cr-MSw5czcsMjA1MTMxODQ5&v=80",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/UnMb_Fpis90",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
