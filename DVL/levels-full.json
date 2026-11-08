@@ -738,10 +738,16 @@
     "author": "M0NKEFUN1",
     "records": [
       {
-        "hz": 60,
-        "link": "https://drive.google.com/file/d/1cVQMkIKWYaZHmUrbT4HzJcsa5kacGmi1/view?usp=sharing",
         "user": "FerchuD17",
-        "percent": 100
+        "link": "https://drive.google.com/file/d/1cVQMkIKWYaZHmUrbT4HzJcsa5kacGmi1/view?usp=sharing",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "SnackFiend002",
+        "link": "https://youtu.be/Z4w2J9uKdIM&t=28s",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
