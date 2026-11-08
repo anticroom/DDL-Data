@@ -1479,7 +1479,14 @@
     "name": "COTTON CANDY DDL",
     "rank": 58,
     "author": "MONKEFUNI",
-    "records": [],
+    "records": [
+      {
+        "user": "Andygames92",
+        "link": "https://youtu.be/Tvck8CnvXlU?is=Xx4H8EjuPlkOEDJW",
+        "percent": 100,
+        "hz": 60
+      }
+    ],
     "creators": [
       "MONKEFUNI",
       "ANTIPRIME",
