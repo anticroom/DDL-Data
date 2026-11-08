@@ -3164,7 +3164,14 @@
     "note": null,
     "rank": 107,
     "author": "swifticat",
-    "records": [],
+    "records": [
+      {
+        "user": "Rislum",
+        "link": "https://www.youtube.com/live/PkBQpifqBpE",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "creators": [
       "swifticat",
       "snackfiend002"
