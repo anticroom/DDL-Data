@@ -1336,7 +1336,14 @@
     "note": null,
     "rank": 53,
     "author": "Synactive GD",
-    "records": [],
+    "records": [
+      {
+        "user": "Andygames92",
+        "link": "https://youtu.be/Sh5Lsxyo9M8?is=8in1mgDlJpbY8bNf",
+        "percent": 100,
+        "hz": 60
+      }
+    ],
     "creators": [
       "Synactive GD",
       "gdbubble1853"
