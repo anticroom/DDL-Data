@@ -4084,7 +4084,14 @@
     "note": null,
     "rank": 131,
     "author": "MONKEFUNI",
-    "records": [],
+    "records": [
+      {
+        "user": "Andygames92",
+        "link": "https://youtu.be/YOdhgMCcAWg?is=6euIwThVNmJgKF5L",
+        "percent": 100,
+        "hz": 60
+      }
+    ],
     "creators": [
       "MONKEFUNI"
     ],
