@@ -5281,22 +5281,28 @@
     "author": "Felmixxxxx",
     "records": [
       {
-        "hz": 480,
-        "link": "https://medal.tv/games/geometry-dash/clips/mgmpk36yb8mPrPf60?invite=cr-MSwxTlcsMjA1MTMxODQ5&v=111",
         "user": "kyf4ri",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mgmpk36yb8mPrPf60?invite=cr-MSwxTlcsMjA1MTMxODQ5&v=111",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 360,
-        "link": "https://youtu.be/doFD5UemVUU",
         "user": "Bobsthirdacount",
-        "percent": 100
+        "link": "https://youtu.be/doFD5UemVUU",
+        "percent": 100,
+        "hz": 360
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/x8lRMhHgE8E?si=zMc9RVB4nG04ZYbm&t=1998",
         "user": "semeboy58",
-        "percent": 100
+        "link": "https://youtu.be/x8lRMhHgE8E?si=zMc9RVB4nG04ZYbm&t=1998",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/RJAf8ljlpNs",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
