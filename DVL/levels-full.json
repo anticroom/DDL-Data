@@ -438,28 +438,34 @@
     "author": "Synactive GD",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/8pHKW44nkQ8?si=Ktg3yFICrTNgLG6v",
         "user": "njacked",
-        "percent": 100
+        "link": "https://youtu.be/8pHKW44nkQ8?si=Ktg3yFICrTNgLG6v",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://www.youtube.com/watch?v=y2ANJwqdiwU",
         "user": "Jpotww",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=y2ANJwqdiwU",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=PyUpbkBWEGA",
         "user": "lattyso",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=PyUpbkBWEGA",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/JZ76ESeMBak",
         "user": "trappp",
-        "percent": 100
+        "link": "https://youtu.be/JZ76ESeMBak",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "SnackFiend002",
+        "link": "https://www.youtube.com/watch?v=h6_R_uh-9t0",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "creators": [
