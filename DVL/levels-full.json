@@ -322,7 +322,14 @@
     "name": "The Flawmenter",
     "rank": 14,
     "author": "Jpotww",
-    "records": [],
+    "records": [
+      {
+        "user": "SnackFiend002",
+        "link": "https://www.youtube.com/watch?v=h6_R_uh-9t0",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "creators": [
       "Jpotww",
       "Fin"
