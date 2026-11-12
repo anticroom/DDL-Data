@@ -8134,46 +8134,52 @@
     "author": "BurgerFan27",
     "records": [
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=r8RWaROLOB4",
         "user": "sharkyga",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=r8RWaROLOB4",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/YYhaTxaB550",
         "user": "rasvaninx",
-        "percent": 100
+        "link": "https://youtu.be/YYhaTxaB550",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=3Mbg9UXJn_M",
         "user": "ItzFallenFly",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=3Mbg9UXJn_M",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 480,
-        "link": "https://medal.tv/games/geometry-dash/clips/mgnoSaloz0xwzsHUb?invite=cr-MSxMWHMsMjA1MTMxODQ5&v=148",
         "user": "kyf4ri",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mgnoSaloz0xwzsHUb?invite=cr-MSxMWHMsMjA1MTMxODQ5&v=148",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/xKC1GzXgEwQ",
         "user": "tFluffy",
-        "percent": 100
+        "link": "https://youtu.be/xKC1GzXgEwQ",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 480,
-        "link": "https://www.youtube.com/watch?v=jR_ezWaxdtc",
         "user": "luvo",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=jR_ezWaxdtc",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/pL4EAeEi534",
         "user": "Obey",
-        "percent": 100
+        "link": "https://youtu.be/pL4EAeEi534",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/Nqsw--BnyrE",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
