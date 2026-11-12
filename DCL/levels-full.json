@@ -2345,46 +2345,52 @@
     "author": "maxf12",
     "records": [
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/screen-capture/clips/mXx8hW2SjZxSSSXcc?invite=cr-MSxVV1UsNDUxNjUwNjEz&v=17",
         "user": "bekon",
-        "percent": 100
+        "link": "https://medal.tv/games/screen-capture/clips/mXx8hW2SjZxSSSXcc?invite=cr-MSxVV1UsNDUxNjUwNjEz&v=17",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/mZdxAzD9xD3SP3FWq?invite=cr-MSxBNHgsMjgxNzg3NzY0&v=17",
         "user": "stasqq",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mZdxAzD9xD3SP3FWq?invite=cr-MSxBNHgsMjgxNzg3NzY0&v=17",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/Y0IelqBctKE",
         "user": "Carus",
-        "percent": 100
+        "link": "https://youtu.be/Y0IelqBctKE",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/vbpGH4D7Ksc",
         "user": "Septalogue",
-        "percent": 100
+        "link": "https://youtu.be/vbpGH4D7Ksc",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/k3W_EwNA_Tc",
         "user": "trappp",
-        "percent": 100
+        "link": "https://youtu.be/k3W_EwNA_Tc",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/nz5BVpjC7OqTsC4zr?invite=cr-MSw1VGQsNjQyNDI2MDgx",
         "user": "S",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/nz5BVpjC7OqTsC4zr?invite=cr-MSw1VGQsNjQyNDI2MDgx",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=IXhtvekqcFU",
         "user": "StumbonGD",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=IXhtvekqcFU",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "spoofer",
+        "link": "https://medal.tv/games/geometry-dash/clips/nUW70e8FcJ2md08Bq?invite=cr-MSxnZkcsNjU0ODE4Ng",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
