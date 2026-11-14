@@ -1389,52 +1389,58 @@
     "author": "Pastel",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/bBGig9-vjR0",
         "user": "bekon",
-        "percent": 100
+        "link": "https://youtu.be/bBGig9-vjR0",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/gtP9DLAhBWM",
         "user": "adammat_fw",
-        "percent": 100
+        "link": "https://youtu.be/gtP9DLAhBWM",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/tQBUCOdEV5s",
         "user": "MiRPacK19",
-        "percent": 100
+        "link": "https://youtu.be/tQBUCOdEV5s",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/rKvrUdpejs0",
         "user": "Ellie",
-        "percent": 100
+        "link": "https://youtu.be/rKvrUdpejs0",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=BSH5UyKS0Zs",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=BSH5UyKS0Zs",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 360,
-        "link": "https://youtu.be/5GcpLbqCcfQ",
         "user": "MONKEFUNI",
-        "percent": 100
+        "link": "https://youtu.be/5GcpLbqCcfQ",
+        "percent": 100,
+        "hz": 360
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/LyVVo_T0XZQ?si=ohNG3mKp_w6YvdN1",
         "user": "Blytys",
-        "percent": 100
+        "link": "https://youtu.be/LyVVo_T0XZQ?si=ohNG3mKp_w6YvdN1",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 100000,
-        "link": "https://youtu.be/o91ds_f8IZ0",
         "user": "luwifo",
-        "percent": 100
+        "link": "https://youtu.be/o91ds_f8IZ0",
+        "percent": 100,
+        "hz": 100000
+      },
+      {
+        "user": "Zyntrixx",
+        "link": "https://youtu.be/7Tj6YUlmdoY",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
