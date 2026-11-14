@@ -268,28 +268,34 @@
     "author": "nintenfox",
     "records": [
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/mrXUuG5vHVY7nBWeD?invite=cr-MSw4VkUsNDUxNjUwNjEz&v=12",
         "user": "bekon",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mrXUuG5vHVY7nBWeD?invite=cr-MSw4VkUsNDUxNjUwNjEz&v=12",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/mNhECmQmAyO9j3eVr?invite=cr-MSw5a3YsMjgxNzg3NzY0&v=14",
         "user": "stasqq",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mNhECmQmAyO9j3eVr?invite=cr-MSw5a3YsMjgxNzg3NzY0&v=14",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/k3W_EwNA_Tc",
         "user": "trappp",
-        "percent": 100
+        "link": "https://youtu.be/k3W_EwNA_Tc",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/5GcpLbqCcfQ",
         "user": "MONKEFUNI",
-        "percent": 100
+        "link": "https://youtu.be/5GcpLbqCcfQ",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "spoofer",
+        "link": "https://medal.tv/games/geometry-dash/clips/nV1qIawbHpsqbdIXF?invite=cr-MSxzbjksNjU0ODE4Ng",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
