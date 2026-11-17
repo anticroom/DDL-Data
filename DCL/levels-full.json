@@ -516,22 +516,28 @@
     "author": "bekon",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/td6_ITcr3-o",
         "user": "MiRPacK19",
-        "percent": 100
+        "link": "https://youtu.be/td6_ITcr3-o",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/roIzRRQSwBQ",
         "user": "Aut0Plays",
-        "percent": 100
+        "link": "https://youtu.be/roIzRRQSwBQ",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/mNlmvbpMYWx0hNASo?invite=cr-MSxscE8sMjgxNzg3NzY0&v=10",
         "user": "stasqq",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mNlmvbpMYWx0hNASo?invite=cr-MSxscE8sMjgxNzg3NzY0&v=10",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "spoofer",
+        "link": "https://medal.tv/games/geometry-dash/clips/nV0pTHZw8C8ey7RGX?invite=cr-MSx3RFcsNjU0ODE4Ng",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
