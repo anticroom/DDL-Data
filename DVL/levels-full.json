@@ -670,52 +670,58 @@
     "author": "BranSilver",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/AP5TVy2oiSA?is=L1n2w5UTW9oNW5XZ",
         "user": "Luciovrfan",
-        "percent": 100
+        "link": "https://youtu.be/AP5TVy2oiSA?is=L1n2w5UTW9oNW5XZ",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://www.youtube.com/watch?v=HmYCD13oJ98",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=HmYCD13oJ98",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/n6mHY5aKO5PbBIVPS?invite=cr-MSxZSTcsNjcwNzk2NzUw",
         "user": "Shifty",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/n6mHY5aKO5PbBIVPS?invite=cr-MSxZSTcsNjcwNzk2NzUw",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/ihwB85pgKYk",
         "user": "jamaloe",
-        "percent": 100
+        "link": "https://youtu.be/ihwB85pgKYk",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/imported-clips/clips/n6HuNwqUp-zF254ik?invite=cr-MSxsOHUsNTY0OTM3ODM5",
         "user": "Amethema",
-        "percent": 100
+        "link": "https://medal.tv/games/imported-clips/clips/n6HuNwqUp-zF254ik?invite=cr-MSxsOHUsNTY0OTM3ODM5",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=LHAg-p1g4G0",
         "user": "ijhos",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=LHAg-p1g4G0",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/nBPUun8ESaAKfnVlH?invite=cr-MSxuejQsMjgxNzg3NzY0",
         "user": "stasqq",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/nBPUun8ESaAKfnVlH?invite=cr-MSxuejQsMjgxNzg3NzY0",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://drive.google.com/file/d/1DvcPU_ne0GoLcOh1RxJV26eW0QD5DqJX/view?usp=drive_link",
         "user": "SnackFiend002",
-        "percent": 100
+        "link": "https://drive.google.com/file/d/1DvcPU_ne0GoLcOh1RxJV26eW0QD5DqJX/view?usp=drive_link",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "EmilioMadrugaR",
+        "link": "https://youtu.be/mg-LoMGU3sU",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "creators": [
