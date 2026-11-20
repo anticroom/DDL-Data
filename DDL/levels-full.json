@@ -8643,10 +8643,16 @@
     "author": "TheDiplomentic",
     "records": [
       {
-        "hz": 240,
-        "link": "https://youtu.be/_MrJaz27eGE?si=Tvx-w50KYAZkYL3e&t=575",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/_MrJaz27eGE?si=Tvx-w50KYAZkYL3e&t=575",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/ncV4RiWGdWE",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
