@@ -1691,10 +1691,27 @@
     "rank": 60
   },
   {
+    "id": 151455024,
+    "_id": "1774381455720",
+    "name": "Denouemunando",
+    "note": null,
+    "rank": 61,
+    "author": "StumbonGD",
+    "records": [],
+    "creators": [
+      "StumbonGD",
+      "pastelliano"
+    ],
+    "password": "free Copyable",
+    "verifier": "StumbonGD",
+    "verification": "https://youtu.be/DyoyZ8U6-8c",
+    "percentToQualify": 100
+  },
+  {
     "id": 144521566,
     "_id": "1783634630",
     "name": "the thing",
-    "rank": 61,
+    "rank": 62,
     "author": "bekon",
     "records": [
       {
@@ -1734,7 +1751,7 @@
     "id": 143473763,
     "_id": "1782958144",
     "name": "Duophobouement",
-    "rank": 62,
+    "rank": 63,
     "author": "bekon",
     "records": [
       {
@@ -1769,7 +1786,7 @@
     "id": 134839340,
     "_id": "1773863260265",
     "name": "the oceanment",
-    "rank": 63,
+    "rank": 64,
     "author": "Bobsthirdacount",
     "records": [
       {
@@ -2009,13 +2026,13 @@
     "verification": "https://www.youtube.com/watch?v=MUj9Rj2A5Tg",
     "percentToQualify": 100,
     "_id": "2",
-    "rank": 64
+    "rank": 65
   },
   {
     "id": 140222552,
     "_id": "1779115733",
     "name": "DenoDenoII",
-    "rank": 65,
+    "rank": 66,
     "author": "bekon",
     "records": [
       {
@@ -2037,7 +2054,7 @@
     "id": 136507122,
     "_id": "1774757796",
     "name": "120sfpsnwo n freff l",
-    "rank": 66,
+    "rank": 67,
     "author": "Synactive GD",
     "records": [
       {
@@ -2079,7 +2096,7 @@
     "id": 142379218,
     "_id": "1781448356",
     "name": "Denoueketsu",
-    "rank": 67,
+    "rank": 68,
     "author": "B3rryGD",
     "records": [],
     "creators": [
@@ -2094,7 +2111,7 @@
     "id": 141009704,
     "_id": "1780063285",
     "name": "Insomniaument",
-    "rank": 68,
+    "rank": 69,
     "author": "WaitMathRandom",
     "records": [],
     "creators": [
@@ -2127,13 +2144,13 @@
     "verification": "https://youtu.be/-r68uyM-zTU?si=n77SYNXuNsmVZfJd",
     "percentToQualify": 100,
     "_id": "1774381455709",
-    "rank": 69
+    "rank": 70
   },
   {
     "id": 138323835,
     "_id": "1776433181",
     "name": "cosement",
-    "rank": 70,
+    "rank": 71,
     "author": "michulek",
     "records": [
       {
@@ -2168,7 +2185,7 @@
     "_id": "1774381455721",
     "name": "Verity",
     "note": null,
-    "rank": 71,
+    "rank": 72,
     "author": "bistfr",
     "records": [],
     "creators": [
@@ -2183,7 +2200,7 @@
     "id": 144843399,
     "_id": "1784245274",
     "name": "silent memoryment",
-    "rank": 72,
+    "rank": 73,
     "author": "jamaloe",
     "records": [
       {
@@ -2217,7 +2234,7 @@
     "id": 139541847,
     "_id": "1778464640",
     "name": "Duo Ment Yes",
-    "rank": 73,
+    "rank": 74,
     "author": "UhNoThx",
     "records": [
       {
@@ -2293,7 +2310,7 @@
     "id": 136786138,
     "_id": "1775767972",
     "name": "Duoinvisment",
-    "rank": 74,
+    "rank": 75,
     "author": "Montan",
     "records": [
       {
@@ -2401,7 +2418,7 @@
     "_id": "1774381455718",
     "name": "monkefuni boba jump",
     "note": null,
-    "rank": 75,
+    "rank": 76,
     "author": "bistfr",
     "records": [],
     "creators": [
@@ -2416,7 +2433,7 @@
     "id": 143136586,
     "_id": "1782339497",
     "name": "duo normal waved",
-    "rank": 76,
+    "rank": 77,
     "author": "maxf12",
     "records": [
       {
@@ -2486,7 +2503,7 @@
     "id": 136844396,
     "_id": "1775767757",
     "name": "Treement",
-    "rank": 77,
+    "rank": 78,
     "author": "Montan",
     "records": [
       {
@@ -2547,7 +2564,7 @@
     "_id": "1774381455719",
     "name": "22222 wavews",
     "note": null,
-    "rank": 78,
+    "rank": 79,
     "author": "bistfr",
     "records": [
       {
@@ -2569,7 +2586,7 @@
     "id": 138847147,
     "_id": "1777306789",
     "name": "DuoDenowave",
-    "rank": 79,
+    "rank": 80,
     "author": "LumenGD",
     "records": [
       {
@@ -2729,23 +2746,6 @@
     "password": "free Copyable",
     "verifier": "bekon",
     "verification": "https://youtu.be/fgpHhzxibts",
-    "percentToQualify": 100
-  },
-  {
-    "id": 151455024,
-    "_id": "1774381455720",
-    "name": "Denouemunando",
-    "note": null,
-    "rank": 80,
-    "author": "StumbonGD",
-    "records": [],
-    "creators": [
-      "StumbonGD",
-      "pastelliano"
-    ],
-    "password": "free Copyable",
-    "verifier": "StumbonGD",
-    "verification": "https://youtu.be/DyoyZ8U6-8c",
     "percentToQualify": 100
   },
   {
