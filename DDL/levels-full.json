@@ -8666,10 +8666,16 @@
     "author": "izhar",
     "records": [
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=PtZLDGn1nmo",
         "user": "EmilioMadrugaR",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=PtZLDGn1nmo",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/7mUQGjFkMJ4",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
