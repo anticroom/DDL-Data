@@ -8346,40 +8346,46 @@
     "author": "Renn241",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/6Igm4xddmYQ",
         "user": "LeifY",
-        "percent": 100
+        "link": "https://youtu.be/6Igm4xddmYQ",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://www.youtube.com/watch?v=0Er0oaCrNTU",
         "user": "Inno",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=0Er0oaCrNTU",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/jperDvCW7Kk",
         "user": "s88304206",
-        "percent": 100
+        "link": "https://youtu.be/jperDvCW7Kk",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 480,
-        "link": "https://youtu.be/neEzFQnlIEk",
         "user": "Kyf4ri",
-        "percent": 100
+        "link": "https://youtu.be/neEzFQnlIEk",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 75,
-        "link": "https://www.youtube.com/watch?v=x7RMyV-ixn0",
         "user": "plobtoiltr",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=x7RMyV-ixn0",
+        "percent": 100,
+        "hz": 75
       },
       {
-        "hz": 300,
-        "link": "https://medal.tv/games/geometry-dash/clips/ngYwRtRJgQTrTqgUv?invite=cr-MSxLaVAsNTc3OTU1MTY1",
         "user": "Muffin3325",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/ngYwRtRJgQTrTqgUv?invite=cr-MSxLaVAsNTc3OTU1MTY1",
+        "percent": 100,
+        "hz": 300
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/eSwykER_mhg",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
