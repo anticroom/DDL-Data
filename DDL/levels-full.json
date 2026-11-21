@@ -8312,16 +8312,22 @@
     "author": "FACEB0OK",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/iKp1WRk9Ayw",
         "user": "Inno",
-        "percent": 100
+        "link": "https://youtu.be/iKp1WRk9Ayw",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/_MrJaz27eGE?si=y-RN91nrfytkdYVF&t=724",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/_MrJaz27eGE?si=y-RN91nrfytkdYVF&t=724",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Unnited",
+        "link": "https://youtu.be/kHM8OJnAnNg",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
