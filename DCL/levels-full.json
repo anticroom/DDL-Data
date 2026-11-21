@@ -138,7 +138,14 @@
     "percentToQualify": 100,
     "password": "free Copyable",
     "note": null,
-    "records": [],
+    "records": [
+      {
+        "user": "MONKEFUNI",
+        "link": "https://youtu.be/k20zP9Q-qeE",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "_id": "1774381455726",
     "rank": 7
   },
