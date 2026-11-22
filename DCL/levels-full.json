@@ -1284,22 +1284,28 @@
     "author": "bekon",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/_VYEODEfPQ4",
         "user": "stasq",
-        "percent": 100
+        "link": "https://youtu.be/_VYEODEfPQ4",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/LPMykOsDeIo",
         "user": "trappp",
-        "percent": 100
+        "link": "https://youtu.be/LPMykOsDeIo",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/RaxY7OGrguA",
         "user": "MONKEFUNI",
-        "percent": 100
+        "link": "https://youtu.be/RaxY7OGrguA",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "StumbonGD",
+        "link": "https://youtu.be/spoYsB4H3-4",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
