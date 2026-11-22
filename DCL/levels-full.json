@@ -229,22 +229,28 @@
     "author": "LitePack",
     "records": [
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/mLRVESQBcyuLASFmn?invite=cr-MSxsajgsNDUxNjUwNjEz",
         "user": "bekon",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mLRVESQBcyuLASFmn?invite=cr-MSxsajgsNDUxNjUwNjEz",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/mNnfqMBW0cYEuGxRS?invite=cr-MSx5UmosMjgxNzg3NzY0&v=19",
         "user": "stasqq",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mNnfqMBW0cYEuGxRS?invite=cr-MSx5UmosMjgxNzg3NzY0&v=19",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/5GcpLbqCcfQ",
         "user": "MONKEFUNI",
-        "percent": 100
+        "link": "https://youtu.be/5GcpLbqCcfQ",
+        "percent": 100,
+        "hz": 60
+      },
+      {
+        "user": "spoofer",
+        "link": "https://medal.tv/games/geometry-dash/clips/nXtG697VJFALkk_bb?invite=cr-MSx6b0UsNjU0ODE4Ng",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
