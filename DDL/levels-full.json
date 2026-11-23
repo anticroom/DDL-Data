@@ -4501,40 +4501,46 @@
     "author": "Obey",
     "records": [
       {
-        "hz": 240,
-        "link": "https://www.youtube.com/watch?v=r8RWaROLOB4",
         "user": "Sharkyga",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=r8RWaROLOB4",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/vRSeZRWhPsg",
         "user": "MiRPacK19",
-        "percent": 100
+        "link": "https://youtu.be/vRSeZRWhPsg",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 120,
-        "link": "https://youtu.be/wfGEzacSoHo",
         "user": "lrexosu",
-        "percent": 100
+        "link": "https://youtu.be/wfGEzacSoHo",
+        "percent": 100,
+        "hz": 120
       },
       {
-        "hz": 240,
-        "link": "https://medal.tv/pl/games/geometry-dash/clips/mKPXx0ZfN04OzgHaZ?invite=cr-MSxvdmksMjgxNzg3NzY0&v=69",
         "user": "stasqq",
-        "percent": 100
+        "link": "https://medal.tv/pl/games/geometry-dash/clips/mKPXx0ZfN04OzgHaZ?invite=cr-MSxvdmksMjgxNzg3NzY0&v=69",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 100000,
-        "link": "https://youtu.be/LvAGOrsyNFA",
         "user": "shafikdabest",
-        "percent": 100
+        "link": "https://youtu.be/LvAGOrsyNFA",
+        "percent": 100,
+        "hz": 100000
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/rLA5EgsfPUk?si=RagiBEZps5Bwgxeu&t=261",
         "user": "Blytys",
-        "percent": 100
+        "link": "https://youtu.be/rLA5EgsfPUk?si=RagiBEZps5Bwgxeu&t=261",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Andygames92",
+        "link": "https://youtu.be/1TVXzEPHylQ?is=ZTV7_a76XVGj6hXN",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "creators": [
