@@ -14716,88 +14716,94 @@
     "author": "Inno",
     "records": [
       {
-        "hz": 60,
-        "link": "https://youtu.be/qGlgyaCLdAY?t=443",
         "user": "FoldedZero",
-        "percent": 100
+        "link": "https://youtu.be/qGlgyaCLdAY?t=443",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://www.youtube.com/live/s9Tj0fZ8EyI?si=tnYcSHuarUgg2Gwf",
         "user": "shafikdabest",
-        "percent": 100
+        "link": "https://www.youtube.com/live/s9Tj0fZ8EyI?si=tnYcSHuarUgg2Gwf",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 480,
-        "link": "https://medal.tv/games/geometry-dash/clips/mkVX1lxUvNueVTgEQ?invite=cr-MSxJVVIsMjA1MTMxODQ5&v=68",
         "user": "Kyf4ri",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mkVX1lxUvNueVTgEQ?invite=cr-MSxJVVIsMjA1MTMxODQ5&v=68",
+        "percent": 100,
+        "hz": 480
       },
       {
-        "hz": 288,
-        "link": "https://youtu.be/DSuFK_gPuUE",
         "user": "bladersb",
-        "percent": 100
+        "link": "https://youtu.be/DSuFK_gPuUE",
+        "percent": 100,
+        "hz": 288
       },
       {
-        "hz": 60,
-        "link": "https://drive.google.com/file/d/1U0cXmHUqXYMRNqMULtcGCOFmyvAiSxKj/view?usp=sharing",
         "user": "WobluGD",
-        "percent": 100
+        "link": "https://drive.google.com/file/d/1U0cXmHUqXYMRNqMULtcGCOFmyvAiSxKj/view?usp=sharing",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/PMNxBcD_PZA",
         "user": "rasvaninx",
-        "percent": 100
+        "link": "https://youtu.be/PMNxBcD_PZA",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/zIdybYDSbLY",
         "user": "LeifY",
-        "percent": 100
+        "link": "https://youtu.be/zIdybYDSbLY",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/_MrJaz27eGE?si=uwUb6B_sQgEJPeur&t=4",
         "user": "Rislum",
-        "percent": 100
+        "link": "https://youtu.be/_MrJaz27eGE?si=uwUb6B_sQgEJPeur&t=4",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://medal.tv/games/geometry-dash/clips/mLTPZFLxj-4zcJuHl?invite=cr-MSxjSGYsNDczNjk0NDI4&v=66",
         "user": "bunni",
-        "percent": 100
+        "link": "https://medal.tv/games/geometry-dash/clips/mLTPZFLxj-4zcJuHl?invite=cr-MSxjSGYsNDczNjk0NDI4&v=66",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/lLxF-xkHy20",
         "user": "TheBaconSurvivor",
-        "percent": 100
+        "link": "https://youtu.be/lLxF-xkHy20",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 240,
-        "link": "https://www.youtube.com/watch?v=hsLeBuqQgt4&t=101",
         "user": "Managii",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=hsLeBuqQgt4&t=101",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 60,
-        "link": "https://youtu.be/ytVW4uT_C28",
         "user": "Mixuromit0",
-        "percent": 100
+        "link": "https://youtu.be/ytVW4uT_C28",
+        "percent": 100,
+        "hz": 60
       },
       {
-        "hz": 240,
-        "link": "https://youtu.be/XY9bZtLrZJI",
         "user": "yobybankp",
-        "percent": 100
+        "link": "https://youtu.be/XY9bZtLrZJI",
+        "percent": 100,
+        "hz": 240
       },
       {
-        "hz": 120,
-        "link": "https://www.youtube.com/watch?v=S7xsMHFvlcU",
         "user": "Unnited",
-        "percent": 100
+        "link": "https://www.youtube.com/watch?v=S7xsMHFvlcU",
+        "percent": 100,
+        "hz": 120
+      },
+      {
+        "user": "bistfr",
+        "link": "https://www.youtube.com/live/WiMtXr5Zu4Y?is=080a6XHpFOua17RY",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "creators": [
